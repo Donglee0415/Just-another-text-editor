@@ -30,4 +30,4 @@
   No tests were required for this project. 
 
   ## Questions
-  Contact me with any questions: [email](dn.lee@gmail.com) , [GitHub](https://github.com/Donglee0415/Just-another-text-editor) , [Heroku]()
+  Contact me with any questions: [email](dn.lee@gmail.com) , [GitHub](https://github.com/Donglee0415/Just-another-text-editor) , [Heroku](https://justanother.herokuapp.com/)
