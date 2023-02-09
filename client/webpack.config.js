@@ -21,7 +21,7 @@ module.exports = () => {
         template: './index.html',
         title: 'JATE'
       }),
-      // TODO: Add and configure workbox plugins for a service worker and manifest file.
+      
       // service worker
       new InjectManifest({
         swSrc: './src-sw.js',
